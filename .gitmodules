@@ -1,0 +1,3 @@
+[submodule "py-bfxapi"]
+	path = py-bfxapi
+	url = git@git.palladion.it:matthias/py-bfxapi.git
